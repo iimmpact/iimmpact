@@ -1,0 +1,11 @@
+# LowBalanceWarningResponse
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**data** | [**LowBalanceWarningResponseData**](LowBalanceWarningResponseData.md) |  | [optional] 
+**metadata** | [**LowBalanceWarningResponseMetadata**](LowBalanceWarningResponseMetadata.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
+
